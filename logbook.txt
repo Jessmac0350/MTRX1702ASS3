@@ -1,3 +1,6 @@
 Use this file to keep your log (see assignment instructions above).
 Make sure to include check point numbers for each entry!
 
+Date: 24 October 2026
+Read through assignment and create completion plan.
+-Make a file structure/ plan to complete assignment.
