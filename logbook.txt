@@ -4,3 +4,7 @@ Make sure to include check point numbers for each entry!
 Date: 24 October 2026
 Read through assignment and create completion plan.
 -Make a file structure/ plan to complete assignment.
+- Establish Files, name and comment files.
+- Files; template - includes reading binary function and implementing template mode, component- thresholding, matching/ comparing templates mode , connections -Uses the same image data to identify electrical traces and connected components, implementing mode c.
+
+
